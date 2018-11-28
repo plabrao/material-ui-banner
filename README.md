@@ -7,3 +7,7 @@ To call this react component you just need to import it and define one boolean a
 <Banner text='This is the banner message to be showed' open={this.state.showBanner} onClose={this.onCloseBanner}/>       
 
 ```
+
+The component is showed like below:
+
+![alt text](https://raw.githubusercontent.com/plabrao/material-ui-banner/master/banner.png)

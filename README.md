@@ -8,7 +8,7 @@ To call this react component you just need to import it and define one boolean a
 
 ```
 
-It is showed using a "Collapse Down" transition.
+The button label can also be defined using the property 'buttonLabel'. It is showed using a "Collapse Down" transition.
 
-Banner Exhibition:
+Banner illustration:
 ![alt text](https://raw.githubusercontent.com/plabrao/material-ui-banner/master/banner.png)

@@ -8,6 +8,7 @@ To call this react component you just need to import it and define one boolean a
 
 ```
 
-The component is showed like below:
+It is showed using a "Collapse Down" transition.
 
+Banner Exhibition:
 ![alt text](https://raw.githubusercontent.com/plabrao/material-ui-banner/master/banner.png)
